@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ParaBorrar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="titulo">Ejemplo de proyecto</string>
+    <string name="datos">No hay datos para mostrar</string>
+
+    <string name="het1">Ingresa un nombre</string>
+    <string name="het2">Ingresa un apellido</string>
+    
+    <string name="btn1">Aceptar</string>
+    
+
+
+</resources>
